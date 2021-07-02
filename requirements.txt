@@ -1,0 +1,9 @@
+numpy
+pandas==1.1.2
+matplotlib
+seaborn
+sklearn
+black
+dask
+# dtale
+missingno
