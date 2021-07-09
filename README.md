@@ -22,8 +22,18 @@ Repondre à un appel à projets pour trouver des idées innovantes d'application
 
 
 ## 6. Retours du Jury de Soutenance
-**Livrable**
-<br><br>
-**Soutenance**
+**Livrable**<br><br>
+<ins>Points forts</ins> :
+- Cadrage du projet.
+- Définition du projet innovant et d'un prototype.
+- Proposition d'un Knn pour l'attribution de nutriscore en cas d'absence de cette information.<br><br>
 
-<br><br><br>
+<ins>Axes d'amélioration</ins> :
+- Inclure l'ANOVA dans la présentation orale.
+<br><br>
+
+**Soutenance**<br><br>
+<ins>Remarques</ins> :
+- Les livrables sont complets.
+- Très bon travail !
+<br>
